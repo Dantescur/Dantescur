@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Hi, I'm Daniel 👋<br><br>I'm a nerd with a passion for web development . I love working on projects that involve Typescript and CSS, and I'm always looking for new challenges and opportunities to grow as a developer.<br><br>🌱 I’m currently learning ~~JavaScript~~ Typescript web frameworks.<br><br>👯 I’m looking to collaborate on open-source projecs.<br><br>💬 Ask me about everything, if I don't know i want to learn.<br><br>📫 How to reach me: daniel.cesar@aol.com<br><br>⚡ Fun fact: I'm from Cuba 😀.
+## Hi, I'm Daniel 👋<br><br>I'm a nerd with a passion for web development . I'm always looking for new challenges and opportunities to grow as a developer.<br><br>🌱 I’m currently learning Rust 🦀.<br><br>👯 I’m looking to collaborate on open-source projecs.<br><br>💬 Ask me about everything, if I don't know i want to learn.<br><br>📫 How to reach me: daniel.cesar@aol.com<br><br>⚡ Fun fact: I'm from Cuba 😀.
 
 ## 🌐 Socials:
 
